@@ -1,14 +1,15 @@
 {
   "name": "javascript-home-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "## The challenge",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^26.4.2"
-  }
+    "jest": "^26.6.3"
+  },
+  "keywords": []
 }
