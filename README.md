@@ -10,7 +10,7 @@ I used the Script for the test "jest --coverage". This help me visualised faster
 
 ## Things I would do differently 
 
-The code is only handling primitive data types. I would have written code for more complex data such as Object but I saw that is part of the Pairing Exercise so didn't tackle it yet.
+The code is only handling primitive data types. I would have written test for more complex data such as Object but I saw that is part of the Pairing Exercise so didn't tackle it yet.
 
 
 
